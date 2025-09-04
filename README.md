@@ -1,4 +1,4 @@
-# 🎨 CorelDRAW2025-MasterGuide
+# 🎨 CorelDRAW-MasterGuide
 
 ![Visitors: 65K+](https://img.shields.io/badge/Visitors-65K+-ff9f43) ![Members: 42K+](https://img.shields.io/badge/Members-42K+-6ab04c) ![Updated: 2025](https://img.shields.io/badge/Updated-2025-ff9f43)
 
