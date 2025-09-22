@@ -6,7 +6,7 @@
 
 **About CorelDRAW2025-MasterGuide**: CorelDRAW2025-MasterGuide is the epicenter of power for users conquering **CorelDRAW Graphics Suite 2025** in 2025! This repository delivers aggressive tutorials, crafted by our community, and unstoppable tips to dominate design skills. Backed by 65K+ visitors and 42K+ members, it’s your weapon for triumph in 2025!
 
-<a href="https://coreldrawpowerhub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/6rNrMANe" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide_Now-3498db" alt="Install Guide Now" width="275" height="60" style="border:none;">
 </a>
  
@@ -30,7 +30,7 @@ Crush your creative limits with **CorelDRAW2025-MasterGuide** using these explos
 5. **Overcome Access Blocks** 🌐  
    If content stalls, switch browsers (Chrome, Firefox, Edge) or boost your connection.
 
-<a href="https://coreldrawpowerhub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/6rNrMANe" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide_Now-3498db" alt="Install Guide Now" width="275" height="60" style="border:none;">
 </a>
 
